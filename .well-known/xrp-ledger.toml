@@ -1,5 +1,5 @@
 [METADATA]
-modified = "2026-05-20"
+modified = "2026-05-22"
 expires = "2027-01-01"
 
 [[VALIDATORS]]
@@ -8,3 +8,4 @@ network = "main"
 owner_country = "AU"
 server_country = "AU"
 unl = "https://vl.ripple.com"
+attestation = "5510FC0599C624BF641D42ECC91E5EC34BC28D0D1C2301FCD5CBD9A7C1459103A54C94FCCF4FAE6A1CE653E92CE307F57016C1F7F78212BC879037CAF9729105"
